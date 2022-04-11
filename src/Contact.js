@@ -4,24 +4,27 @@ export default function Contacts() {
   return (
     <div>
       <div className="contacts" id="Contact">
-        <h1>Contact Me</h1>
+        <h1>Get in Touch</h1>
         <div className="center-div">
-
-        <div className="phone">
+          <p>I'm actively looking for any new opportunities, in full-stack web development .</p>
+        
+        {/* <div className="phone">
           <i className="fa fa-phone"> </i>
 
-          <a tel="+91 7799820552" target="_blank" rel="noreferrer">
+          <a href="tel:7799820552" target="_blank" rel="noreferrer">
             +91 7799820552
           </a>
-        </div>
-        <div className="phone">
+        </div> */}
+        {/* <div className="phone">
             <i className="fa fa-envelope-o"></i>
             <a href="mailto: chandudaane@gmail.com">
               chandudaane@gmail.com
             </a>
-          </div>
-          </div>
-
+        </div> */}
+        </div>
+        <a href="tel:7799820552" target="_blank" rel="noreferrer">
+          <i className="fa fa-phone"></i>
+        </a>
         <a href="https://github.com/chandu806" target="_blank" rel="noreferrer">
           <i className="fa fa-github"></i>
         </a>

@@ -1,6 +1,7 @@
 .contacts {
   background: #191919;
   text-align: center;
+  margin-top:70px;
 }
 .contacts h1 {
   text-align: center;
@@ -12,6 +13,13 @@
   height: 50px;
   margin: auto;
   text-align: center;
+}
+.center-div p {
+  color:white;
+  font-size:18px;
+  /* width:400px; */
+  /* text-align:center; */
+  /* float:center; */
 }
 .contacts .phone {
   color: #e8ffff;
