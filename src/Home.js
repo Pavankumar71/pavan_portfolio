@@ -96,7 +96,7 @@ function Home() {
                   {/* <a href="chanduresumemac.pdf" download="chanduresumemac.pdf">
                     <button className="btn highlighted-btn">Get Resume</button>
                   </a> */}
-                  <a href="https://drive.google.com/file/d/1TVYWwn4I15T7qg9pZoKlgAu0sExXow_v/view?usp=sharing" target="_blank" rel="noreferrer">
+                  <a href="https://drive.google.com/file/d/1Umw-v21sNoDhhGIAqOKyL1jAxd2iqyue/view?usp=sharing" target="_blank" rel="noreferrer">
                   <button className="btn highlighted-btn">Get Resume</button>
                   </a>
                 </div>

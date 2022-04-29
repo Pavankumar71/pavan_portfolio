@@ -53,6 +53,7 @@ h2 {
   font-size: 1.2rem;
   box-shadow: 2px 2px #072227;
   cursor: pointer;
+  
 }
 
 .one button:hover {
@@ -171,4 +172,8 @@ h2 {
     height: 300px;
   }
 }
+
+/* .one .btn1{
+  margin-top:40px;
+} */
 

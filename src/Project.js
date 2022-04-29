@@ -16,7 +16,8 @@ export default function Projects() {
               <img src={Image} alt="project" />
               <h2>Developed a clone of Adventure Travel website</h2>
               <p>
-               It's a website to choose the best travelling places and hotels.
+              About
+This project is a clone of (Adventure Travel). It's a website to choose the best travelling places and hotels.
               </p> 
               <p>
               Along with 3 other members, build the application in 6 days. each individual page was assigned by individual person. websites which we includes Places page, Home page & Hotel page.
@@ -28,14 +29,14 @@ export default function Projects() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <button>Demo</button>
+                <button className="btn1">Demo</button>
               </a>
               <a
                 href="https://github.com/MuskanIss/ConstructWeek_Adventure.git"
                 target="_blank"
                 rel="noreferrer"
               >
-                <button>GitHub Link</button>
+                <button className="btn1">GitHub Link</button>
               </a>
             </div>
             
