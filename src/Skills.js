@@ -97,13 +97,20 @@ function Skills() {
                   />
                   <p>Visual Studio</p>
                 </div>
-                <div className="icon-name">
+                {/* <div className="icon-name">
                   <img
                     src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/70/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
                     alt="postman"
                   />
                   <p>Postman</p>
-                </div>
+                </div> */}
+                {/* <div className="icon-name">
+                  <img
+                    src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"
+                    alt="python"
+                  />
+                  <p>Python</p>
+                </div> */}
               </div>
             </div>
           </div>

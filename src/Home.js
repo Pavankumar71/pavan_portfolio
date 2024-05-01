@@ -85,7 +85,7 @@ function Home() {
             <div className="home__content">
               <div className="home__meta">
                 <h2 className="home__text pz__10">Hi, </h2>
-                <h2 className="home__text pz__10">I’m Chandu Daane</h2>
+                <h2 className="home__text pz__10">I’m M Pavan kumar</h2>
                 <h3 className="home__text sweet pz__10">
 
                   Full-stack Web Developer.
@@ -96,8 +96,8 @@ function Home() {
                   {/* <a href="chanduresumemac.pdf" download="chanduresumemac.pdf">
                     <button className="btn highlighted-btn">Get Resume</button>
                   </a> */}
-                  <a href="https://drive.google.com/file/d/1Umw-v21sNoDhhGIAqOKyL1jAxd2iqyue/view?usp=sharing" target="_blank" rel="noreferrer">
-                  <button className="btn highlighted-btn">Get Resume</button>
+                  <a href="https://drive.google.com/file/d/1LDwPKjaPDCkYRcYtW3MCprRbfS_fh6Zj/view?usp=drivesdk" target="_blank" rel="noreferrer">
+                  <button className="btn highlighted-btn">Get Resume</button> 
                   </a>
                 </div>
               </div>

@@ -22,14 +22,14 @@ export default function Contacts() {
             </a>
         </div> */}
         </div>
-        <a href="tel:7799820552" target="_blank" rel="noreferrer">
+        <a href="tel:9502632413" target="_blank" rel="noreferrer">
           <i className="fa fa-phone"></i>
         </a>
-        <a href="https://github.com/chandu806" target="_blank" rel="noreferrer">
+        <a href="https://github.com/Pavankumar71" target="_blank" rel="noreferrer">
           <i className="fa fa-github"></i>
         </a>
         <a
-          href="https://www.linkedin.com/in/daane-chandu-48b8311b5/"
+          href="https://www.linkedin.com/in/pavankumar-naidu-1a6422240/"
           target="_blank"
           rel="noreferrer"
         >
@@ -37,7 +37,7 @@ export default function Contacts() {
         </a>
        
        
-        <a href="mailto: chandudaane@gmail.com">
+        <a href="mailto: pn8189977@gmail.com">
           <i className="fa fa-envelope-o"></i>
         </a>
       </div>
